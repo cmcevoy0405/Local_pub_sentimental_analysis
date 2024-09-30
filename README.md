@@ -1,2 +1,1 @@
-# local_pub_sentimental_analysis
-Conducted an aspect based sentiment analysis on my local pub using python.
+<h1 align="center" style="color:#FFFFFF; font-family: 'Arial', sans-serif;">Cutters Wharf Sentiment Analysis</h1> <p align="left" style="color:#FFFFFF; font-family: 'Verdana', sans-serif;">
