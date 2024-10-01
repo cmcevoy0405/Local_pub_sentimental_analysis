@@ -36,4 +36,4 @@ Based on these insghts I would recommend:
 - The location should be leverged to attract additional customers in, outdoor seating should be as comfortable as possible with the intoduction of balnkets/heat lamps to keep customers warm during winter months.
 
 ### Limitations
-The reviews range from 2024 all the way back to 2016. Therefore an imrovement upon this model would be to split the data up on dates. This would allow users to inspect what they have improved on over the years and what has dropped. This would allow managemnt to bring certain products/methods back if they were working well in the past and what changes have made a positive impact.
+The reviews range from 2016 all the way to 2024. An improvement for this model would be to split the data by dates, allowing users to examine how the pub has evolved over time. This would enable management to identify which areas have improved and which have worsened, allowing them to reintroduce successful products or methods from the past and evaluate the positive impact of recent changes.
